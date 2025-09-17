@@ -92,7 +92,7 @@ O **Dashboard do Node-RED** exibirá em tempo real:
 ## 🖼️ Imagem da Arquitetura
 
 <p align="center">
-  <img src="./imgs/ width="600">
+  <img src="./imgs/node-red width="600">
 </p>
 
 ---

@@ -64,7 +64,7 @@ O **Dashboard do Node-RED** exibirá em tempo real:
 3. **Status do gol** (Validado / Não validado)  
 4. **Replay dos 15 segundos anteriores**  
 
-⏱️ **Atualização instantânea a cada evento de gol.**
+ **Atualização instantânea a cada evento de gol.**
 
 ---
 
@@ -82,7 +82,7 @@ O **Dashboard do Node-RED** exibirá em tempo real:
 ## Simulação
 
 <p align="center">
-  <a href="https://" target="_blank">
+  <a href="https://youtu.be/lE0nkbuZJ8A?si=eVurd49faYQqqQc_" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="160">
   </a>
 </p>
